@@ -44,12 +44,12 @@
  
  
 ## Q&A
-Q1：m1的mac可以安裝嗎？
-A：可以，但是wineskin是以rosetta模擬，並非arm結構編寫的程式，所以理論上比intel結構的還慢上一些
+### Q1：arm架構的mac可以安裝嗎？ 
+A：可以，但是wineskin是以rosetta模擬，並非arm結構編寫的程式，所以理論上比intel結構的還慢上一些。其他請詳見：https://github.com/Gcenx/WineskinServer
 
-Q2：我想要預設書庫書庫是其他語言，例如：英文，我可以怎麼做？
+### Q2：我想要預設書庫書庫是其他語言，例如：英文，我可以怎麼做？ 
 A：與步驟三類似。打開「Wineskin」>「Advanced」>「windows EXE」。這個地方可以選擇你想要執行的書庫執行檔，按下旁邊的「browse」可以選擇其他語言的書庫執行檔做為預設
 
-Q3：我想以中文書庫為主，但是有時我想直接打開其他語言的書庫，怎麼做？
+### Q3：我想以中文書庫為主，但是有時我想直接打開其他語言的書庫，怎麼做? 
 Ａ：其中一個方式是採用同步(sync)的方式打開。另一個方法請見以下連結[影片](https://drive.google.com/file/d/1C-WjSPVGLY1jHRHIhYlCL6EO1hJeafYa/view?usp=sharing)
- 
+
